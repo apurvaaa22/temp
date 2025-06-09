@@ -5,7 +5,7 @@ import Contact from './Contact'
 function Home() {
     return (
         <div>
-            Home Page
+            Homeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeee Pageeeeeeeeeeeeeeeeeeeeeeee
         </div>
     );
 }
